@@ -164,6 +164,28 @@ text-align: center;
 .sponsor-company img{
     filter: grayscale(100%);
 }
+/* features section */
+#features-section-tittle{
+    border-left: 5px solid #FF900E;
+    padding-left: 21px;
+
+}
+.features-card .features-tittle{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.features-card{
+    border-radius: 8px;
+background: #FFF;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+padding: 10px;
+margin-bottom: 20px;
+}
+.features-enjoy{
+    gap:136px;
+}
 
 /* small device */
 @media screen and (max-width:576px) {
