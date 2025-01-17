@@ -248,10 +248,7 @@ footer {
     height: 65%;
     width: 100%;
   }
-  .sponsor-company {
-    
-    grid-template-columns: repeat(2, 1fr);
-  }
+
 }
 /* medium device */
 @media screen and (min-width: 576px) and (max-width: 992px) {
@@ -285,10 +282,6 @@ footer {
     height: 65%;
     width: 100%;
   }
-  .sponsor-company {
-
-    grid-template-columns: repeat(3, 1fr);
-    
-  }
+  
   
 }
